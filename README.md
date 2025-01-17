@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ikram Zulfugar</h1>
-<h3 align="center">Software developer, passionate about building complex, multi functional applications</h3>
+<h3 align="center">Software developer</h3>
+<p align="center" style="color: red;" >Passionate about building complex, multi functional applications</p>
 
 - 📫 How to reach me **ikramzulfugarcodein@gmail.com**
 
