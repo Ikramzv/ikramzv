@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ikram Zulfugar</h1>
 <h3 align="center">Software developer</h3>
-<p align="center">Passionate about building complex, multi functional applications</p>
+<p align="center">Passionate about building complex, multi functional web applications</p>
 
 - 📫 How to reach me **ikramzulfugarcodein@gmail.com**
 
